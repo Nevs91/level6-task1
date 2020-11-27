@@ -9,6 +9,6 @@
         android:id="@+id/FirstFragment"
         android:name="com.example.madlevel6task1.ColorFragment"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        tools:layout="@layout/fragment_color">
     </fragment>
 </navigation>
